@@ -20,9 +20,6 @@ const Register = () => {
             </div>
         </div>
 
-        <div className="row">
-          <pre>{JSON.stringify({name, email, password}, null, 4)}</pre>
-        </div>
       </div>
     </div>
   )
